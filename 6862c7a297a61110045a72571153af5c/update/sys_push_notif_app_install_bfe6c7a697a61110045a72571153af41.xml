@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <last_registered_on>2022-10-19 01:57:36</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 07:25:09</sys_created_on>
+        <sys_id>bfe6c7a697a61110045a72571153af41</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>664F66085ED2CD43E4F31CFAF7815BDC27E42C9540A43EBD748C1B6EC27DC4AD</sys_name>
+        <sys_package display_value="Shopping List" source="x_804805_shopping">6862c7a297a61110045a72571153af5c</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Shopping List">6862c7a297a61110045a72571153af5c</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_bfe6c7a697a61110045a72571153af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-19 02:01:27</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>664F66085ED2CD43E4F31CFAF7815BDC27E42C9540A43EBD748C1B6EC27DC4AD</token>
+    </sys_push_notif_app_install>
+</record_update>
